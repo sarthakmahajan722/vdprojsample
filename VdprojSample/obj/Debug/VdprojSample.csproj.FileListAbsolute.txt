@@ -1,0 +1,5 @@
+C:\Users\akhilgoel\documents\visual studio 2015\Projects\VdprojSample\VdprojSample\bin\Debug\VdprojSample.exe
+C:\Users\akhilgoel\documents\visual studio 2015\Projects\VdprojSample\VdprojSample\bin\Debug\VdprojSample.pdb
+C:\Users\akhilgoel\documents\visual studio 2015\Projects\VdprojSample\VdprojSample\obj\Debug\VdprojSample.csprojResolveAssemblyReference.cache
+C:\Users\akhilgoel\documents\visual studio 2015\Projects\VdprojSample\VdprojSample\obj\Debug\VdprojSample.exe
+C:\Users\akhilgoel\documents\visual studio 2015\Projects\VdprojSample\VdprojSample\obj\Debug\VdprojSample.pdb
